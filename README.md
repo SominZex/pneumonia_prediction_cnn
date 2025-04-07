@@ -30,6 +30,6 @@ This repository contains a deep learning model for detecting pneumonia from ches
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SominZex/pneumonia-detection.git
+   git clone https://github.com/SominZex/pneumonia_prediction_cnn.git
 2. **Install Dependencies:**
    pip install -r requirements.txt
